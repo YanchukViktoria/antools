@@ -13,4 +13,4 @@ Layout supports mobile version up to 478px and desktop up to 1440px
 
 ### Author
 
-- Volodymyr Ipatenko
+- Yanchuk Viktoria
